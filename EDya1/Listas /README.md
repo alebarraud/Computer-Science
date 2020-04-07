@@ -1,1 +1,0 @@
-Dynamic data structure: lists
