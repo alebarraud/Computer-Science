@@ -1,1 +1,2 @@
-Utilizo listas simplementes enlazadas para hacer una pila dinamica.
+Use slist for implement a stack.
+to compile in bash: gcc slist.c main.c && ./a.out
